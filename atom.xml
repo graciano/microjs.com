@@ -5800,5 +5800,13 @@
 		<summary>A mini (1.2kb) DOM Manipulation library. A very slim and fast helper.</summary>
 	</entry>
 
+	<entry>
+		<title>mess-js</title>
+		<link href="https://github.com/graciano/mess" />
+		<id>urn:uuid:f2058b10-53ac-11e8-a407-112b4e3eb18b</id>
+		<updated>2018-05-09'T'17:17:28+00:00</updated>
+		<summary>mess - Messages Extremely Simple Script: dialog &apos;android toast&apos; like messages.</summary>
+	</entry>
+
 
 </feed>
